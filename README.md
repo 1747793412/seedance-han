@@ -2,7 +2,7 @@
 
 **把“我想拍什么”，写成镜头里看得见、动作上接得住的中文视频提示词。**
 
-面向 Seedance 创作的 Agent Skill，由林韩持续整理。覆盖需求澄清、分镜设计、参考素材规划、提示词撰写、系列续写与成片问题分析。
+面向 Seedance 创作的 Agent Skill，由林韩原创并持续维护。覆盖需求澄清、分镜设计、参考素材规划、提示词撰写、系列续写与成片问题分析。
 
 [开始使用](#快速开始) · [完整使用指南](docs/使用指南.md) · [技能入口](SKILL.md) · [范例库](references/范例库_我的真实提示词.md) · [MIT 许可](LICENSE)
 
@@ -124,7 +124,7 @@ git clone https://github.com/1747793412/seedance-han.git ~/.claude/skills/seedan
 | [失败模式表](references/失败模式表.md) | 按成片症状排查问题 |
 | [真实提示词范例库](references/范例库_我的真实提示词.md) | 根据镜头与动作类型选择范例 |
 | [形容词客观化](references/形容词客观化.md) | 将抽象审美转成可检查的画面要求 |
-| [来源与署名](NOTICE.md) | 项目来源和上游许可 |
+| [作者说明](NOTICE.md) | 原创作者与开源许可 |
 
 ## 经验边界
 
@@ -140,6 +140,6 @@ git clone https://github.com/1747793412/seedance-han.git ~/.claude/skills/seedan
 
 ## 作者与许可
 
-维护者：[林韩 / Lin Han](https://github.com/1747793412)。
+原创作者与维护者：[林韩 / Lin Han](https://github.com/1747793412)。
 
-采用 [MIT License](LICENSE)。项目演进中参考并整合过 [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0)；保留[上游原始许可证](LICENSE.seedance-2.0-upstream)及[来源说明](NOTICE.md)。本项目独立维护，并非字节跳动、OpenAI 或 Anthropic 官方项目。
+采用 [MIT License](LICENSE)，Copyright © 2026 Lin Han。详见[作者说明](NOTICE.md)。本项目独立维护，并非字节跳动、OpenAI 或 Anthropic 官方项目。
